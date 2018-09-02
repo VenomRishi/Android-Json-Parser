@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "ABC",
+      "age": 30,
+      "address": "Mumbai",
+      "companies": [
+        {
+          "name": "TCS",
+          "location": "Pune"
+        },
+        {
+          "name": "Infosys",
+          "location": "Maysore"
+        }
+      ]
+    },
+    {
+      "name": "PQR",
+      "age": 35,
+      "address": "Chennai",
+      "companies": [
+        {
+          "name": "TCS",
+          "location": "Maysore"
+        },
+        {
+          "name": "MindTree",
+          "location": "Haydrabad"
+        }
+      ]
+    }
+  ]
+}
